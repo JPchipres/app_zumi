@@ -15,10 +15,6 @@ font_data = ExtResource( 3 )
 [node name="Control" type="Control"]
 anchor_right = 1.0
 anchor_bottom = 1.0
-margin_left = -0.30719
-margin_top = 4.7395
-margin_right = -0.307251
-margin_bottom = 4.7395
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -74,6 +70,6 @@ __meta__ = {
 [node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
 
 [node name="Sprite" type="Sprite" parent="ParallaxBackground/ParallaxLayer"]
-position = Vector2( 514.043, 306.627 )
+position = Vector2( 551.798, 956.012 )
 scale = Vector2( 1.58262, 1.30719 )
 texture = ExtResource( 4 )
