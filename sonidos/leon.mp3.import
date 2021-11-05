@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/leon.mp3-b1a2de50c90b537f5375ecfa15579966.mp3str"
+
+[deps]
+
+source_file="res://sonidos/leon.mp3"
+dest_files=[ "res://.import/leon.mp3-b1a2de50c90b537f5375ecfa15579966.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
